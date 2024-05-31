@@ -3,7 +3,7 @@
     <v-list>
       <v-list-item
         :prepend-avatar="avatar"
-        subtitle="administrador@gmail.com"
+        subtitle="cristhianzapata@gmail.com"
         title="Administrador"
       ></v-list-item>
     </v-list>
